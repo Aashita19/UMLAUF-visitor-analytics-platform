@@ -1,6 +1,7 @@
 # **UMLAUF Visitor Analytics \+ Reporting Tool**
 
 *A custom visitor analytics and reporting platform for the UMLAUF Sculpture Garden \+ Museum.*
+
 ***NOTE: The source code for this project is proprietary to protect UMLAUF's business operations and data***
 
 | Type | Full-stack web application |
